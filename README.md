@@ -29,10 +29,10 @@ Part 2 :-
 
 Files related to this project :-
 
-README.md - README file
-runs_analysis.R - R script file
-CodeBook.md - Codebook
-Data file - getdata-projectfiles-UCI HAR Dataset.zip
+* README.md - README file
+* runs_analysis.R - R script file
+* CodeBook.md - Codebook
+* Data file - getdata-projectfiles-UCI HAR Dataset.zip
 
 
 How the script runs_analysis.R works :- 
