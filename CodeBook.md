@@ -19,7 +19,7 @@ How the script runs_analysis.R works :-
 * factor is used to translate values from y_test.txt
 * creates test dataframe and combines the test data
 
-* reads train data from files ./UCI HAR Dataset/train/y_train.txt ./UCI HAR Dataset/train/subject_test.txt ./UCI HAR Dataset/train/X_train.txt 
+* reads train data from files ./UCI HAR Dataset/train/y_train.txt ./UCI HAR Dataset/train/subject_train.txt ./UCI HAR Dataset/train/X_train.txt 
 * factor is used to translate values from y_train.txt
 * creates train dataframe and combines the train data
 
